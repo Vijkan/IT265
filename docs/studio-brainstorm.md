@@ -27,8 +27,8 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
+- [Value 1:Balancing]
+- [Value 2: Fun gameplay]
 - [Value 3: e.g., Simplicity in Architecture]
 - [Value 4: e.g., Experimentation with Mechanics]
 
@@ -37,9 +37,9 @@
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** [Competitive players, ]
+- **Interests:** [Strategic Gameplay, Competitive, Multiplayer]
+- **Platforms:** [PC]
 
 ---
 
