@@ -2,18 +2,18 @@
 
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - 
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Shugoki Fish
+  - Tank Players Anonymous 
+  - Quakeman 47
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Joker Fish
+  - DR.Ice
+  - Very Liam Friendly
 
-- **Chosen Name**: 
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Shugoki Fish
+- **About the name**: Shugoki from for honor as a fish its a really dumb joke my friend made like 7 years ago
+- **Social Medias with name available**: instagram 
+- **Possible domain names available**: shugokifish.com
 
 ---
 
@@ -87,7 +87,7 @@
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+> I am terrible at naming things I hope my cards can be named in my dreams so I can actually have ideas
 
 
 
