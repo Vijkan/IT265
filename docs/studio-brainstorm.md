@@ -10,7 +10,7 @@
   - [Insert alternative name idea 2]
   - [Insert alternative name idea 3]
 
-- **Chosen Name**:
+- **Chosen Name**: 
 - **About the name**:
 - **Social Medias with name available**:
 - **Possible domain names available**:
@@ -77,7 +77,7 @@
 - **Tagline Ideas:** 
   - It will work but it wont be good
   - You buy it you own it
-  - Gauranteed to be better than waking up at 1am
+  - Gauranteed to be better than waking up at 1am and working 8 nhours at FedEx ground
 
 -- **Sketches/Logo**:
 <img width="1071" height="1096" alt="image" src="https://github.com/user-attachments/assets/356e5cfe-8103-4e43-824b-4759025558ff" />
