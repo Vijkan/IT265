@@ -75,11 +75,12 @@
 
 - **Logo Style:** Minimalist
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
+  - 
   - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
   - [Tagline 3: e.g., "Architects of Fun."]
 
 -- **Sketches/Logo**:
+<img width="1071" height="1096" alt="image" src="https://github.com/user-attachments/assets/356e5cfe-8103-4e43-824b-4759025558ff" />
 
 ---
 
