@@ -55,7 +55,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> [Ubsurd levels of overly complicated synergy like yugioh but without a one turn win ]
 
 ---
 
@@ -65,7 +65,7 @@
 - **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
 - **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
 - **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
+- **Version Control:** GitHub
 - **Publishing Platforms:** Itch.io
 
 ---
@@ -73,7 +73,7 @@
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Minimalist
 - **Tagline Ideas:** 
   - [Tagline 1: e.g., "Simple Games, Complex Stories."]
   - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
