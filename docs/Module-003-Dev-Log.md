@@ -3,29 +3,29 @@
 ### Module: 3
 
 <!-- Repeat the below as needed-->
-### Date: [01/27/2026]
+### Date: [02/17/2026]
 
 #### Goals for this Module
 
-- [ ] Make Repository for IT265
-- [ ] Setup Github Pages
-- [ ] Finish Studio Brainstorm
+- [ ] Case study What makes a game bad?
+- [ ] Learn about color theory 
+
 
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - Made repository for IT265 and finished studio brainstorm
+  - Case study discussion 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  N/A
+  - I completely forgot to do the assignment until I was asleep and then I woke up in a panick remembering I had to do it
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  N/A
+  -  Stop procrastinating so much 
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  Using Github
+-  What makes games bad according to people
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
