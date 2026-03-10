@@ -33,6 +33,5 @@
 -  N/A
 
 #### Next Steps
--N/A
 - Tasks or experiments to focus on during the next session.
 - Get rest of matererials start building 
