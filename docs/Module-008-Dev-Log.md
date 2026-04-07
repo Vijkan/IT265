@@ -3,19 +3,19 @@
 ### Module: 6
 
 <!-- Repeat the below as needed-->
-### Date: [03/9/2026]
+### Date: [04/6/2026]
 
 #### Goals for this Module
 
 - [ ] Dev log
-- [ ] Planning and working on physical prototype
+- [ ] Learning Grids
 
 
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - Got portian of materials
+  - Learned Grids
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   - N/A
@@ -25,7 +25,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  How to plan and manage a game development project
+- Grids and cells 
 -  N/A
 
 #### Free Thinking
@@ -34,4 +34,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-- Get rest of matererials start building 
+- N/A
